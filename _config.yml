@@ -2,7 +2,7 @@ title: Test
 author: Tester
 email: Test@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-Test site.
+  Test site.
 
 # social links
 twitter_username: your-twitter-handle
